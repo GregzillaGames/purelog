@@ -85,7 +85,7 @@ See [Requirements](https://jekyllrb.com/docs/installation/#requirements) for gui
 gem install jekyll bundler
 ```
 
-3. Clone this repository.
+3. Clone this repository do bão.
 
 ```
 git clone https://github.com/brennanbrown/purelog.git
